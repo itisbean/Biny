@@ -7,6 +7,7 @@ return array(
 
         //静态化配置
         'routeRule' => array(
+            '<method:\w+>' => 'demo/<method>',
 //            '<method:\w+>/<id:\d+>.html' => 'demo/<method>',
 //            'rest/<rid:[\d]+>/<method:\w+>/<mid:\d+>' => 'rest/<method>',
         ),

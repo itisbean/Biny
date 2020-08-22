@@ -7,6 +7,9 @@
  */
 return array(
     'dbConfig' => array(
-        'test' => 'Biny_Test'
+        'building' => 'zsbd_building',
+        'floor' => 'zsbd_floor',
+        'area' => 'zsbd_func_areas',
+        'point' => 'zsbd_pub_point'
     )
 );

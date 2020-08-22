@@ -1,12 +1,12 @@
 <?php
 return array(
     'database' => array(
-        'host'     => '127.0.0.1',
-        'database' => 'Biny',
-        'user'     => 'root',
-        'password' => 'root',
+        'host'     => '10.10.14.137',
+        'database' => 'myscrm_hzzhongxadmin_test',
+        'user'     => 'doun',
+        'password' => '1IfSt5errJXABAMr',
         'encode' => 'utf8',
-        'port' => 3306,
+        'port' => 36440,
         'keep-alive' => true,
     ),
     'slaveDb' => array(
