@@ -9,3 +9,5 @@
 /composer.lock
 /composer.json
 /vendor
+
+/app/config/*
